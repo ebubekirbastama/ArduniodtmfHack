@@ -162,6 +162,6 @@ This repository contains a `LICENSE` file. Refer to it for the applicable licens
 
 ## 👨‍💻 Developer
 
-**Ebubekir Baştama**
+**Ebubekir Bastama**
 
 GitHub: https://github.com/ebubekirbastama
